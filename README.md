@@ -8,7 +8,7 @@ The free tier only works for the [8B Model](https://huggingface.co/meta-llama/Me
 
 **Other notebooks running Llama-3.1-8B:**
 
-| |Google Colab|
-|:--|:-:|
+| |Google Colab|GitHub|
+|:--|:-:|:-:|
 | ⭐ **Llama 3.1-8B_Colab** | [![Open in Colab](https://github.com/73LIX/Meta-Llama-3.1-8BxColab/blob/main/asset/colab_logo.svg)](https://colab.research.google.com/drive/10c_GQ8wqVXuX5JciX0gHVstO0WHaUbqD?usp=sharing )
-| 🌟 **Llama 3.1-8B_QuantisedxOllama** |  [![Open in Colab](https://github.com/73LIX/Meta-Llama-3.1-8BxColab/blob/main/asset/colab_logo.svg)](https://colab.research.google.com/drive/1S9q6cvH8y2WMml7pczg0Bl-VS6Le-jzZ?usp=sharing)
+| 🌟 **Llama 3.1-8B_QuantisedxOllama** |  [![Open in Colab](https://github.com/73LIX/Meta-Llama-3.1-8BxColab/blob/main/asset/colab_logo.svg)](https://colab.research.google.com/drive/1S9q6cvH8y2WMml7pczg0Bl-VS6Le-jzZ?usp=sharing) | [![GitHub](https://github.com/73LIX/Meta-Llama-3.1-8BQuantisedxColab-Ollama/blob/main/assets/github.svg)](https://github.com/73LIX/Meta-Llama-3.1-8BQuantisedxColab-Ollama.git)
