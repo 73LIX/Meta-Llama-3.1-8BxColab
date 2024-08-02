@@ -6,7 +6,7 @@ The free tier only works for the [8B Model](https://huggingface.co/meta-llama/Me
 
 ❗NOTE: Colab pro version recommended for faster inference. For free users i recommend to use the "Llama 3.1-8B_QuantisedxOllama" notebook. Because it will save you a lot of time. It has faster inference, smaller model size and you don't need any access to get the model, but quantisation comes with some cons such as it could make more mistakes and cause hallucination, so always check for important info.
 
-**Other notebooks for running the Llama-3.1-8B:**
+**Other notebooks running Llama-3.1-8B:**
 
 | |Google Colab|
 |:--|:-:|
